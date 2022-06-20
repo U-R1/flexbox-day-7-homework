@@ -1,0 +1,50 @@
+.flex-container{
+    width: 50%;
+}
+
+.header{
+    display: flex;
+    flex-direction: row;
+    width: 97.9%;
+    height: 30pt;
+    padding-top: 12pt;
+    padding-left: 12pt;
+    background-color: #91C9C4;
+}
+
+.middle-flex{
+    display: flex;
+    justify-content: flex-start;
+    width: 100%;
+}
+
+.navigation{
+    background-color: #F3AF3D;
+    height: 250pt;
+    width:25%;
+    padding-top: 10pt;
+    padding-left: 10pt;
+}
+
+.article{
+    background-color: #F8D767;
+    height: 250pt;
+    width:60%;
+    padding-top: 10pt;
+    padding-left: 10pt;
+}
+.aside{
+    background-color: #FDF188;
+    height: 250pt;
+    width:50%;
+    padding-top: 10pt;
+    padding-left: 10pt;
+}
+.footer{
+    width: 97.9%;
+    height: 35pt;
+    padding-top: 12pt;
+    padding-left: 12pt;
+    background-color: #52A49A;
+}
+
